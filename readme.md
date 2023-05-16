@@ -13,16 +13,16 @@ y luego ejecutar.
 
 # Restricciones:
 
-0 -> LA información en cada .csv ya son los mayores de 15.
-1 -> Se necesita exportar la información en formato .csv
-2 -> Se nombrara deacuerdo al mes de la siguiente manera: 
-    Enero = 1.csv
-    Febrero = 2.csv
-    Marzo = 3.csv
-    Abril = 4.csv
-    ...
-    Diciembre = 12.csv
-3 -> Cada archivo contiene los Headers y termina en salto de linea.
+0 -> LA información en cada .csv ya son los mayores de 15.<br>
+1 -> Se necesita exportar la información en formato .csv. <br>
+2 -> Se nombrara deacuerdo al mes de la siguiente manera: <br> 
+    Enero = 1.csv <br>
+    Febrero = 2.csv <br>
+    Marzo = 3.csv <br>
+    Abril = 4.csv <br>
+    ... <br>
+    Diciembre = 12.csv <br>
+3 -> Cada archivo contiene los Headers y termina en salto de linea. <br>
 
 
 
